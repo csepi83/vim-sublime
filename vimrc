@@ -13,7 +13,8 @@ Bundle 'gcmt/breeze.vim'
 Bundle 'kien/ctrlp.vim'
 Bundle 'SirVer/ultisnips'
 Bundle 'tomtom/tcomment_vim'
-Bundle 'bling/vim-airline'
+Bundle 'vim-airline/vim-airline'
+Bundle 'vim-airline/vim-airline-themes'
 Bundle 'airblade/vim-gitgutter'
 
 " Color Themes
